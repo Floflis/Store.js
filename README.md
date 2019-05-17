@@ -1,1 +1,1 @@
-# Store.js
+# DApp Store
